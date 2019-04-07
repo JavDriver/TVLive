@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 ,====== 【CCTV】-DM ======
+#EXTINF:-1,直播源公告（公益推送）
 http://0/0.m3u8
 #EXTINF:-1 ,CCTV1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
