@@ -35,3 +35,4 @@ CKFly资源采集站：http://zy.vivcms.com
 撸死你资源采集站：http://www.lsntbzy13.com
 1769资源采集站：http://1769vod.com
 
+author https://github.com/anglesgirl
